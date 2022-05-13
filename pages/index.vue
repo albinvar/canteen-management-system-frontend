@@ -34,6 +34,44 @@
   </html>
 </template>
 
+<style>
+.floating {
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes floating {
+  0% { transform: translate(0, 0px); }
+  50% { transform: translate(0, 8px); }
+  100% { transform: translate(0, -0px); }
+}
+.floating-4 {
+  animation-name: floating;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes floating-4 {
+  0% { transform: translate(0, 0px); }
+  50% { transform: translate(0, 8px); }
+  100% { transform: translate(0, -0px); }
+}
+
+.floating-2 {
+  animation-name: floating;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes floating-2 {
+  0% { transform: translate(0, 0px); }
+  50% { transform: translate(0, 8px); }
+  100% { transform: translate(0, -0px); }
+}
+</style>
+
+
 <script>
 export default {
   name: 'IndexPage',
