@@ -4,12 +4,12 @@
       <!--Left Col-->
       <div class="flex flex-col w-full lg:w-6/12 justify-center lg:pt-24 items-start text-center lg:text-left mb-5 md:mb-0">
         <h1 data-aos="fade-right" data-aos-once="true" class="my-4 text-5xl font-bold leading-tight text-darken">
-          <span class="text-yellow-500">Canteen</span> In online mode is much easier now
+          <span class="text-yellow-500">Canteen</span> in online mode is much easier now
         </h1>
-        <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">Skilline is an interesting platform that will teach you in more an interactive way</p>
+        <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">Canteen is an interesting platform that which helps to order your favourite food on the go.</p>
         <div data-aos="fade-up" data-aos-once="true" data-aos-delay="700" class="w-full md:flex items-center justify-center lg:justify-start md:space-x-5">
           <button class="lg:mx-0 bg-yellow-500 text-white text-xl font-bold rounded-full py-4 px-9 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
-            Join for free
+            Sign Up
           </button>
           <div class="flex items-center justify-center space-x-3 mt-5 md:mt-0 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
             <button class="bg-white w-14 h-14 rounded-full flex items-center justify-center">
@@ -26,16 +26,16 @@
         <img data-aos="fade-up" data-aos-once="true" class="w-10/12 mx-auto 2xl:-mb-20" src="img/girl.png" />
 
         <!-- calendar -->
-        <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="absolute top-20 right-10 sm:right-20 sm:top-10 md:top-20 md:left-16 lg:left-80 lg:top-52 floating-4">
-          <img class="bg-opacity-80 rounded-lg h-12 sm:h-16" src="img/burger.png">
+        <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="absolute top-32 right-28 sm:left-20 sm:top-56 md:top-20 md:left-80 lg:left-80 lg:top-52 floating-4">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-12 md:h-16" src="img/burger.png">
         </div>
         <!-- red -->
         <div data-aos="fade-up" data-aos-delay="400" data-aos-once="true" class="absolute top-20 right-10 sm:right-24 sm:top-28 md:top-36 md:right-32 lg:top-32 lg:right-16 floating">
-          <img class="bg-opacity-80 rounded-lg h-20 sm:h-22" src="img/biriyani.png" alt="">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-12 md:h-20" src="img/biriyani.png" alt="">
         </div>
         <!-- calendar -->
-        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="absolute top-40 md:bottom-48 lg:bottom-52 -right-6 lg:-right-20 lg:top-52 floating-4">
-          <img class="bg-opacity-80 rounded-lg h-28 sm:h-10 md:h-10" src="img/fork.png">
+        <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="absolute top-32 md:bottom-48 lg:bottom-52 -right-6 lg:-right-20 lg:top-52 floating-4">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-12 md:h-20 lg:h-24" src="img/fork.png">
         </div>
 
         <!-- ux class -->
