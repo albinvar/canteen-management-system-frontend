@@ -6,7 +6,7 @@
         <h1 data-aos="fade-right" data-aos-once="true" class="my-4 text-5xl font-bold leading-tight text-darken">
           <span class="text-yellow-500">Canteen</span> in online mode is much easier now
         </h1>
-        <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">Canteen is an interesting platform that which helps to order your favourite food on the go.</p>
+        <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">Foodie Hub is an interesting platform which helps to order your favourite food on the go.</p>
         <div data-aos="fade-up" data-aos-once="true" data-aos-delay="700" class="w-full md:flex items-center justify-center lg:justify-start md:space-x-5">
           <button class="lg:mx-0 bg-yellow-500 text-white text-xl font-bold rounded-full py-4 px-9 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out">
             Sign Up

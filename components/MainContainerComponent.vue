@@ -81,8 +81,8 @@
     <div class="sm:flex items-center sm:space-x-8 mt-36">
       <div data-aos="fade-right" class="sm:w-1/2 relative">
         <div class="bg-yellow-500 rounded-full absolute w-12 h-12 z-0 -left-4 -top-3 animate-pulse"></div>
-        <h1 class="font-semibold text-2xl relative z-50 text-darken lg:pr-10">Everything you can do in a physical classroom, <span class="text-yellow-500">you can do with Skilline</span></h1>
-        <p class="py-5 lg:pr-32">Skilline’s school management software helps traditional and online schools manage scheduling, attendance, payments and virtual classrooms all in one secure cloud-based system.</p>
+        <h1 class="font-semibold text-2xl relative z-50 text-darken lg:pr-10">Everything you can do in a physical canteen, <span class="text-yellow-500">you can do with Foodie Hub</span></h1>
+        <p class="py-5 lg:pr-32">Foodie Hub helps traditional and online food ordering and to manage scheduling, payments all in one secure cloud-based system.</p>
         <a href="" class="underline">Learn More</a>
       </div>
       <div data-aos="fade-left" class="sm:w-1/2 relative mt-10 sm:mt-0">
@@ -106,7 +106,7 @@
         <div style="background: #F56666;" class="w-5 h-5 rounded-full absolute z-0 right-52 bottom-1 animate-ping"></div>
       </div>
       <div data-aos="fade-down" class="md:w-5/12 mt-20 md:mt-0 text-gray-500">
-        <h1 class="text-2xl font-semibold text-darken lg:pr-40">A <span class="text-yellow-500">user interface</span> designed for the classroom</h1>
+        <h1 class="text-2xl font-semibold text-darken lg:pr-40">A <span class="text-yellow-500">user interface</span> designed for the canteen management</h1>
         <div class="flex items-center space-x-5 my-5">
           <div class="flex-shrink bg-white shadow-lg rounded-full p-3 flex items-center justify-center">
             <svg class="w-4 h-4" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -116,7 +116,7 @@
               <rect x="14.7727" y="14.1816" width="11.8182" height="11.8182" rx="2" fill="#F48C06"/>
             </svg>
           </div>
-          <p>Teachers don’t get lost in the grid view and have a dedicated Podium space.</p>
+          <p>Easiest way to have your favourite food</p>
         </div>
         <div class="flex items-center space-x-5 my-5">
           <div class="flex-shrink bg-white shadow-lg rounded-full p-3 flex items-center justify-center">
@@ -125,7 +125,7 @@
               <rect width="21.2245" height="21.2245" rx="2" fill="#F48C06"/>
             </svg>
           </div>
-          <p>TA’s and presenters can be moved to the front of the class.</p>
+          <p>Foodie Hub tracks orders and can recommend you better recommendations.</p>
         </div>
         <div class="flex items-center space-x-5 my-5">
           <div class="flex-shrink bg-white shadow-lg rounded-full p-3 flex items-center justify-center">
@@ -133,7 +133,7 @@
               <path d="M4.5 11.375C6.15469 11.375 7.5 9.91758 7.5 8.125C7.5 6.33242 6.15469 4.875 4.5 4.875C2.84531 4.875 1.5 6.33242 1.5 8.125C1.5 9.91758 2.84531 11.375 4.5 11.375ZM25.5 11.375C27.1547 11.375 28.5 9.91758 28.5 8.125C28.5 6.33242 27.1547 4.875 25.5 4.875C23.8453 4.875 22.5 6.33242 22.5 8.125C22.5 9.91758 23.8453 11.375 25.5 11.375ZM27 13H24C23.175 13 22.4297 13.3605 21.8859 13.9445C23.775 15.0668 25.1156 17.093 25.4062 19.5H28.5C29.3297 19.5 30 18.7738 30 17.875V16.25C30 14.4574 28.6547 13 27 13ZM15 13C17.9016 13 20.25 10.4559 20.25 7.3125C20.25 4.16914 17.9016 1.625 15 1.625C12.0984 1.625 9.75 4.16914 9.75 7.3125C9.75 10.4559 12.0984 13 15 13ZM18.6 14.625H18.2109C17.2359 15.1328 16.1531 15.4375 15 15.4375C13.8469 15.4375 12.7688 15.1328 11.7891 14.625H11.4C8.41875 14.625 6 17.2453 6 20.475V21.9375C6 23.2832 7.00781 24.375 8.25 24.375H21.75C22.9922 24.375 24 23.2832 24 21.9375V20.475C24 17.2453 21.5812 14.625 18.6 14.625ZM8.11406 13.9445C7.57031 13.3605 6.825 13 6 13H3C1.34531 13 0 14.4574 0 16.25V17.875C0 18.7738 0.670312 19.5 1.5 19.5H4.58906C4.88438 17.093 6.225 15.0668 8.11406 13.9445Z" fill="#2F327D"/>
             </svg>
           </div>
-          <p>Teachers can easily see all students and class data at one time.</p>
+          <p>Efficient food management to ensure food isn't wasted </p>
         </div>
       </div>
     </div>
@@ -141,8 +141,8 @@
     <!-- Tools For Teachers And Learners -->
     <div class="flex flex-col md:flex-row items-center md:space-x-10 mt-16">
       <div data-aos="fade-right" class="md:w-1/2 lg:pl-14">
-        <h1 class="text-darken font-semibold text-3xl lg:pr-56"><span class="text-yellow-500">Tools</span> For Teachers And Learners</h1>
-        <p class="text-gray-500 my-4 lg:pr-32">Class has a dynamic set of teaching tools built to be deployed and used during class. Teachers can handout assignments in real-time for students to complete and submit.</p>
+        <h1 class="text-darken font-semibold text-3xl lg:pr-56"><span class="text-yellow-500">FOOD Online,</span> is it safe? </h1>
+        <p class="text-gray-500 my-4 lg:pr-32">Foodie Hub has a dynamic set of safety tools built to be deployed and used for safe transactions.</p>
       </div>
       <img data-aos="fade-left" class="md:w-1/2" src="img/girl-with-books.png">
     </div>
@@ -153,16 +153,16 @@
         <img class="md:w-11/12 rounded-xl" src="img/hotel-interior.png">
       </div>
       <div data-aos="fade-left" class="md:w-6/12 md:transform md:-translate-y-20">
-        <h1 class="font-semibold text-darken text-3xl lg:pr-64">Assessments, <span class="text-yellow-500">Quizzes</span>, Tests</h1>
-        <p class="text-gray-500 my-5 lg:pr-52">Easily launch live assignments, quizzes, and tests. Student results are automatically entered in the online gradebook.</p>
+        <h1 class="font-semibold text-darken text-3xl lg:pr-64">Online, <span class="text-yellow-500">Safe </span>& Instant Food</h1>
+        <p class="text-gray-500 my-5 lg:pr-52"> Why stand in que when you could order your food online. Order your food, grab on your seats and enjoy the meal </p>
       </div>
     </div>
 
     <!-- Class Management Tools for Educators -->
     <div class="flex flex-col md:flex-row items-center mt-12">
       <div data-aos="fade-right" class="md:w-5/12">
-        <h1 class="text-darken font-semibold text-3xl leading-tight lg:pr-32"><span class="text-yellow-500">Class Management</span> Tools for Educators</h1>
-        <p class="my-5 lg:pr-14">Class provides tools to help run and manage the class such as Class Roster, Attendance, and more. With the Gradebook, teachers can review and grade tests and quizzes in real-time.</p>
+        <h1 class="text-darken font-semibold text-3xl leading-tight lg:pr-32"> Food for All</h1>
+        <p class="my-5 lg:pr-14"> When a diverse group of people is together for a meal, it becomes very important to cater to varying tastes. Features to customize thee canteen's menu facilitate this to a great extent</p>
       </div>
       <img data-aos="fade-left" class="md:w-7/12" src="img/girl_introducing.png">
     </div>
@@ -173,8 +173,8 @@
         <img class="md:w-11/12" src="img/girl-with-coffee.png">
       </div>
       <div data-aos="fade-left" class="md:w-5/12 md:transform md:-translate-y-6">
-        <h1 class="font-semibold text-darken text-3xl lg:pr-64">One-on-One <span class="text-yellow-500">Discussions</span></h1>
-        <p class="text-gray-500 my-5 lg:pr-24">Teachers and teacher assistants can talk with students privately without leaving the Zoom environment.</p>
+        <h1 class="font-semibold text-darken text-3xl lg:pr-64">FOOD <span class="text-yellow-500"> That we love!</span></h1>
+        <p class="text-gray-500 my-5 lg:pr-24">Food may be essential as fuel for the body. But good fuel for the soul.</p>
       </div>
     </div>
 
@@ -182,7 +182,7 @@
     <div class="sm:flex items-center sm:space-x-8 mt-36">
       <div data-aos="fade-right" class="sm:w-1/2 relative">
         <div class="bg-yellow-500 rounded-full absolute w-12 h-12 z-0 -left-4 -top-3 animate-pulse"></div>
-        <h1 class="font-semibold text-2xl relative z-50 text-darken lg:pr-10">With our wide range of recipes, <span class="text-yellow-500">you can do with Skilline</span></h1>
+        <h1 class="font-semibold text-2xl relative z-50 text-darken lg:pr-10">With our wide range of recipes, <span class="text-yellow-500">you can do it with Foodie Hub</span></h1>
         <p class="py-5 lg:pr-32">Skilline’s school management software helps traditional and online schools manage scheduling, attendance, payments and virtual classrooms all in one secure cloud-based system.</p>
         <a href="" class="underline">Learn More</a>
       </div>
@@ -205,7 +205,7 @@
         <img class="md:w-11/12" src="img/credits.png">
       </div>
       <div data-aos="fade-left" class="md:w-5/12 md:transform md:-translate-y-6">
-        <h1 class="font-semibold text-darken text-3xl lg:pr-64">One-on-One <span class="text-yellow-500">Discussions</span></h1>
+        <h1 class="font-semibold text-darken text-3xl lg:pr-64">Grab your meals and <span class="text-yellow-500"> enjoy your food</span></h1>
         <p class="text-gray-500 my-5 lg:pr-24">Teachers and teacher assistants can talk with students privately without leaving the Zoom environment.</p>
       </div>
     </div>
