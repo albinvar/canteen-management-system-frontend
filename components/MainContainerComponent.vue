@@ -58,7 +58,7 @@
       </div>
       <div data-aos="fade-up" class="flex flex-col md:flex-row justify-center space-y-5 md:space-y-0 md:space-x-6 lg:space-x-10 mt-7">
         <div class="relative md:w-5/12">
-          <img class="rounded-2xl" src="img/employees.jpg" alt="">
+          <img class="rounded-2xl" src="img/employees.webp" alt="">
           <div class="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
               <h1 class="uppercase text-white font-bold text-center text-sm lg:text-xl mb-3">FOR EMPLOYEES</h1>
@@ -67,7 +67,7 @@
           </div>
         </div>
         <div class="relative md:w-5/12">
-          <img class="rounded-2xl" src="img/students.jpg" alt="">
+          <img class="rounded-2xl" src="img/students.webp" alt="">
           <div class="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl">
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
               <h1 class="uppercase text-white font-bold text-center text-sm lg:text-xl mb-3">FOR STUDENTS</h1>
@@ -87,7 +87,7 @@
       </div>
       <div data-aos="fade-left" class="sm:w-1/2 relative mt-10 sm:mt-0">
         <div style="background: #23BDEE;" class="floating w-24 h-24 absolute rounded-lg z-0 -top-3 -left-3"></div>
-        <img class="rounded-xl z-40 relative" src="img/couple.jpg" alt="">
+        <img class="rounded-xl z-40 relative" src="img/couple.webp" alt="">
         <button class="bg-white w-14 h-14 rounded-full flex items-center justify-center absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out z-50">
           <svg class="w-5 h-5 ml-1" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M22.5751 12.8097C23.2212 13.1983 23.2212 14.135 22.5751 14.5236L1.51538 27.1891C0.848878 27.5899 5.91205e-07 27.1099 6.25202e-07 26.3321L1.73245e-06 1.00123C1.76645e-06 0.223477 0.848877 -0.256572 1.51538 0.14427L22.5751 12.8097Z" fill="#23BDEE"/>
@@ -101,7 +101,7 @@
       <div data-aos="fade-down" class="md:w-7/12 relative">
         <div style="background: #33EFA0" class="w-32 h-32 rounded-full absolute z-0 left-4 -top-12 animate-pulse"></div>
         <div style="background: #33D9EF;" class="w-5 h-5 rounded-full absolute z-0 left-36 -top-12 animate-ping"></div>
-        <img class="relative z-50 floating" src="img/vcall.png" alt="">
+        <img class="relative z-50 floating" src="img/vcall.webp" alt="">
         <div style="background: #5B61EB;" class="w-36 h-36 rounded-full absolute z-0 right-16 -bottom-1 animate-pulse"></div>
         <div style="background: #F56666;" class="w-5 h-5 rounded-full absolute z-0 right-52 bottom-1 animate-ping"></div>
       </div>
@@ -144,13 +144,13 @@
         <h1 class="text-darken font-semibold text-3xl lg:pr-56"><span class="text-yellow-500">FOOD Online,</span> is it safe? </h1>
         <p class="text-gray-500 my-4 lg:pr-32">Foodie Hub has a dynamic set of safety tools built to be deployed and used for safe transactions.</p>
       </div>
-      <img data-aos="fade-left" class="md:w-1/2" src="img/girl-with-books.png">
+      <img data-aos="fade-left" class="md:w-1/2" src="img/girl-with-books.webp">
     </div>
-
     <!-- Assessments, Quizzes, Tests -->
+
     <div class="mt-20 flex flex-col-reverse md:flex-row items-center md:space-x-10">
       <div data-aos="fade-right" class="md:w-6/12">
-        <img class="md:w-11/12 rounded-xl" src="img/hotel-interior.png">
+        <img class="md:w-11/12 rounded-xl" src="img/hotel-interior.webp">
       </div>
       <div data-aos="fade-left" class="md:w-6/12 md:transform md:-translate-y-20">
         <h1 class="font-semibold text-darken text-3xl lg:pr-64">Online, <span class="text-yellow-500">Safe </span>& Instant Food</h1>
@@ -164,13 +164,13 @@
         <h1 class="text-darken font-semibold text-3xl leading-tight lg:pr-32"> Food for All</h1>
         <p class="my-5 lg:pr-14"> When a diverse group of people is together for a meal, it becomes very important to cater to varying tastes. Features to customize thee canteen's menu facilitate this to a great extent</p>
       </div>
-      <img data-aos="fade-left" class="md:w-7/12" src="img/girl_introducing.png">
+      <img data-aos="fade-left" class="md:w-7/12" src="img/girl_introducing.webp">
     </div>
 
     <!-- One-on-One Discussions -->
     <div class="mt-24 flex flex-col-reverse md:flex-row items-center md:space-x-10">
       <div data-aos="fade-right" class="md:w-7/12">
-        <img class="md:w-11/12" src="img/girl-with-coffee.png">
+        <img class="md:w-11/12" src="img/girl-with-coffee.webp">
       </div>
       <div data-aos="fade-left" class="md:w-5/12 md:transform md:-translate-y-6">
         <h1 class="font-semibold text-darken text-3xl lg:pr-64">FOOD <span class="text-yellow-500"> That we love!</span></h1>
@@ -188,7 +188,7 @@
       </div>
       <div data-aos="fade-left" class="sm:w-1/2 relative mt-10 sm:mt-0">
         <div style="background: #23BDEE;" class="floating w-24 h-24 absolute rounded-lg z-0 -top-3 -left-3"></div>
-        <img class="rounded-xl z-40 relative" src="img/chef.jpg" alt="">
+        <img class="rounded-xl z-40 relative" src="img/chef.webp" alt="">
         <button class="bg-white w-14 h-14 rounded-full flex items-center justify-center absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 focus:outline-none transform transition hover:scale-110 duration-300 ease-in-out z-50">
           <svg class="w-5 h-5 ml-1" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M22.5751 12.8097C23.2212 13.1983 23.2212 14.135 22.5751 14.5236L1.51538 27.1891C0.848878 27.5899 5.91205e-07 27.1099 6.25202e-07 26.3321L1.73245e-06 1.00123C1.76645e-06 0.223477 0.848877 -0.256572 1.51538 0.14427L22.5751 12.8097Z" fill="#23BDEE"/>
@@ -202,7 +202,7 @@
     <!-- One-on-One Discussions -->
     <div class="mt-24 flex flex-col-reverse md:flex-row items-center md:space-x-10">
       <div data-aos="fade-right" class="md:w-7/12">
-        <img class="md:w-11/12" src="img/credits.png">
+        <img class="md:w-11/12" src="img/double-ok.webp">
       </div>
       <div data-aos="fade-left" class="md:w-5/12 md:transform md:-translate-y-6">
         <h1 class="font-semibold text-darken text-3xl lg:pr-64">Grab your meals and <span class="text-yellow-500"> enjoy your food</span></h1>
