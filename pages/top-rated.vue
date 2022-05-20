@@ -1,6 +1,5 @@
 <template>
-  <div class="top-rated">
-  </div>
+  <div class="top-rated"></div>
 </template>
 
 <script>
@@ -9,6 +8,4 @@ export default {
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

@@ -1,20 +1,34 @@
 <template>
-<div class="container">
-
-  <!--HERO START-->
+  <div class="container">
+    <!--HERO START-->
     <HeroComponent />
-  <!--HERO STOP-->
+    <!--HERO STOP-->
 
-  <!-- CONTAINER START -->
+    <!-- CONTAINER START -->
     <MainContainerComponent />
-  <!-- CONTAINER END -->
-</div>
+    <!-- CONTAINER END -->
+  </div>
 </template>
+
+<script>
+import aosMixin from '~/mixins/aos'
+
+export default {
+  name: 'IndexPage',
+  components: {},
+  mixins: [aosMixin],
+  data() {
+    return {
+      //
+    }
+  },
+}
+</script>
 
 <style>
 /*primary color*/
 .bg-cream {
-  background-color: #FFF2E1;
+  background-color: #fff2e1;
 }
 
 /*font*/
@@ -23,13 +37,13 @@ body {
 }
 
 .bg-yellow-500 {
-  background-color: #F48C06;
+  background-color: #f48c06;
 }
 .text-yellow-500 {
-  color: #F48C06;
+  color: #f48c06;
 }
 .text-darken {
-  color: #2F327D;
+  color: #2f327d;
 }
 
 .floating {
@@ -39,9 +53,15 @@ body {
   animation-timing-function: ease-in-out;
 }
 @keyframes floating {
-  0% { transform: translate(0, 0px); }
-  50% { transform: translate(0, 8px); }
-  100% { transform: translate(0, -0px); }
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 8px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
 }
 .floating-4 {
   animation-name: floating;
@@ -50,9 +70,15 @@ body {
   animation-timing-function: ease-in-out;
 }
 @keyframes floating-4 {
-  0% { transform: translate(0, 0px); }
-  50% { transform: translate(0, 8px); }
-  100% { transform: translate(0, -0px); }
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 8px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
 }
 
 .floating-2 {
@@ -62,25 +88,14 @@ body {
   animation-timing-function: ease-in-out;
 }
 @keyframes floating-2 {
-  0% { transform: translate(0, 0px); }
-  50% { transform: translate(0, 8px); }
-  100% { transform: translate(0, -0px); }
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 8px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
 }
 </style>
-
-
-<script>
-
-import aosMixin from '~/mixins/aos'
-
-export default {
-  name: 'IndexPage',
-  components: { },
-  mixins: [aosMixin],
-  data() {
-    return {
-      //
-    }
-  },
-}
-</script>

@@ -1,8 +1,5 @@
 <template>
-<div>
-  // TODO: Add register form
-  hello world
-</div>
+  <div>// TODO: Add register form hello world</div>
 </template>
 
 <script>
@@ -11,6 +8,4 @@ export default {
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
