@@ -4,26 +4,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skilline Landing Page</title>
-  <!-- Alpine -->
-  <script type="module" src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"></script>
-  <script nomodule src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine-ie11.min.js" defer></script>
-  <!-- AOS -->
-  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-  <!-- Custom style -->
-  <link rel="stylesheet" href="css/skilline.css" />
+  <title>Foodie Hub Landing Page</title>
+
+  <!-- Fonts -->
   <!-- Poppins font -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href='https://fonts.gstatic.com' rel='preconnect'>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
 </head>
 <body class="antialiased">
-  <Nuxt />
 
-<!-- AOS init -->
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
+<!-- HEADER START -->
+
+  <!-- NAVBAR START-->
+    <NavbarComponent />
+  <!-- NAVBAR END -->
+
+<!-- HEADER END -->
+
+
+<!-- MAIN CONTENT START -->
+  <Nuxt />
+<!-- MAIN CONTENT END -->
+
+
+<!-- FOOTER START -->
+  <FooterComponent />
+<!-- FOOTER END -->
+
 </body>
 </html>
 </template>

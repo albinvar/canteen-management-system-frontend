@@ -1,40 +1,37 @@
 <template>
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Canteen Landing Page</title>
-    <!-- Custom style -->
+<div class="container">
 
-    <!-- Poppins font -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-  </head>
-  <body class="antialiased">
+  <!--HERO START-->
+    <HeroComponent />
+  <!--HERO STOP-->
 
-  <!--NAVBAR-->
-  <NavbarComponent />
-
-  <!--HERO-->
-  <HeroComponent />
-  <!--.HERO-->
-
-  <!-- container -->
-  <MainContainerComponent />
-  <!-- .container -->
-
-  <FooterComponent />
-
-  <!-- AOS init -->
-  <script>
-    AOS.init();
-  </script>
-  </body>
-  </html>
+  <!-- CONTAINER START -->
+    <MainContainerComponent />
+  <!-- CONTAINER END -->
+</div>
 </template>
 
 <style>
+/*primary color*/
+.bg-cream {
+  background-color: #FFF2E1;
+}
+
+/*font*/
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-yellow-500 {
+  background-color: #F48C06;
+}
+.text-yellow-500 {
+  color: #F48C06;
+}
+.text-darken {
+  color: #2F327D;
+}
+
 .floating {
   animation-name: floating;
   animation-duration: 3s;
@@ -73,8 +70,17 @@
 
 
 <script>
+
+import aosMixin from '~/mixins/aos'
+
 export default {
   name: 'IndexPage',
-  components: {  },
+  components: { },
+  mixins: [aosMixin],
+  data() {
+    return {
+      //
+    }
+  },
 }
 </script>

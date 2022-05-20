@@ -23,19 +23,19 @@
       </div>
       <!--Right Col-->
       <div class="w-full lg:w-6/12 lg:-mt-10 relative" id="girl">
-        <img data-aos="fade-up" data-aos-once="true" class="w-10/12 mx-auto 2xl:-mb-20" src="img/girl.webp" />
+        <img data-aos="fade-up" data-aos-once="true" class="w-10/12 mx-auto 2xl:-mb-20" src="~/assets/img/girl.webp" />
 
         <!-- calendar -->
         <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="absolute top-32 right-28 sm:left-20 sm:top-56 md:top-20 md:left-80 lg:left-80 lg:top-52 floating-4">
-          <img class="bg-opacity-80 rounded-lg h-12 sm:h-8 md:h-16" src="img/burger.webp">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-8 md:h-16" src="~/assets/img/burger.webp">
         </div>
         <!-- red -->
         <div data-aos="fade-up" data-aos-delay="400" data-aos-once="true" class="absolute top-20 right-10 sm:right-24 sm:top-28 md:top-36 md:right-32 lg:top-32 lg:right-16 floating">
-          <img class="bg-opacity-80 rounded-lg h-12 sm:h-12 md:h-20" src="img/biriyani.webp" alt="">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-12 md:h-20" src="~/assets/img/biriyani.webp" alt="">
         </div>
         <!-- calendar -->
         <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="absolute top-32 md:bottom-48 lg:bottom-52 -right-6 lg:-right-20 lg:top-52 floating-4">
-          <img class="bg-opacity-80 rounded-lg h-12 sm:h-16 md:h-20 lg:h-28" src="img/fork.webp">
+          <img class="bg-opacity-80 rounded-lg h-12 sm:h-16 md:h-20 lg:h-28" src="~/assets/img/fork.webp">
         </div>
 
 
